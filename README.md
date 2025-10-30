@@ -44,6 +44,7 @@ DS_prob1_2510 강의 자료 공유 공간입니다.
 
 [구글 Colab](https://colab.google/)
 
+0. 구글 로그인
 1. Open Colab
 2. GitHub->https://github.com/sunkusun9/DS_prob1_2510
 3. prob.ipynb
