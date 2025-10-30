@@ -39,3 +39,15 @@ DS_prob1_2510 강의 자료 공유 공간입니다.
 |5|문제 5|15시 00분| 15시 50분|
 |6|문제 6|16시 00분| 16시 50분|
 |7|Kaggle형 문제|17시 00분| 18시 00분|
+
+# 실습 환경
+
+[구글 Colab](https://colab.google/)
+
+1. Open Colab
+2. GitHub->https://github.com/sunkusun9/DS_prob1_2510
+3. prob.ipynb
+
+**파일 저장**
+파일 -> 드라이브에 사본저장 
+
