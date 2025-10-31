@@ -1,6 +1,7 @@
 # DS_prob1_2510
 DS_prob1_2510 강의 자료 공유 공간입니다.
 
+**강사**: 멀티캠퍼스 강선구 (sunku0316.kang@multicampus.com, sun9sun9@gmail.com)
 
 # 1-Day 데이터 분석 챌린지 with 파이썬
 
